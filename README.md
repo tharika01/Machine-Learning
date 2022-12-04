@@ -21,7 +21,7 @@ Code is provided in the respective folders along with the dataset used.
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `"Breast Cancer Prediction using logistic regression"/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory and run one of the following commands:
 
 ```bash
 ipython notebook filename.ipynb
@@ -47,7 +47,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 - [K_Nearest Neighbors](https://github.com/tharika01/Machine-Learning/blob/main/Classification/knn.ipynb)
 - [Support Vector Machine](https://github.com/tharika01/Machine-Learning/blob/main/Classification/svm.ipynb)
 - [Kernal Support Vector Machine](https://github.com/tharika01/Machine-Learning/blob/main/Classification/kernal_svm.ipynb)
-- [Naive Bayes]()
+- [Naive Bayes](https://github.com/tharika01/Machine-Learning/blob/main/Classification/Naive_bayes.ipynb)
 - [Decision Tree Classifier]()
 - [Random Forest Classifier]()
 
