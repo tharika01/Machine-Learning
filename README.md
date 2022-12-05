@@ -50,6 +50,5 @@ This will open the Jupyter Notebook software and project file in your browser.
 - [Naive Bayes](https://github.com/tharika01/Machine-Learning/blob/main/Classification/Naive_bayes.ipynb)
 - [Decision Tree Classifier](https://github.com/tharika01/Machine-Learning/blob/main/Classification/Decision%20Tree%20Classification.ipynb)
 - [Random Forest Classifier](https://github.com/tharika01/Machine-Learning/blob/main/Classification/Random%20Forest%20Classifier.ipynb)
-
-Model was trained on all of the classification algorithms and obbserved that kernal SVM and KNN yielded highest accuracy of 93 %.
+Classification model trained on the  same dataset, kernal SVM and KNN yielded maximum accuracy of 93 %.
 
