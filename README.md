@@ -1,7 +1,7 @@
 
 # Machine Learning
 
-Includes implementation of several supervised Machine learning algorithhms.
+Includes implementation of several Machine learning algorithhms.
 
 
 ## Install
@@ -49,5 +49,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 - [Kernal Support Vector Machine](https://github.com/tharika01/Machine-Learning/blob/main/Classification/kernal_svm.ipynb)
 - [Naive Bayes](https://github.com/tharika01/Machine-Learning/blob/main/Classification/Naive_bayes.ipynb)
 - [Decision Tree Classifier](https://github.com/tharika01/Machine-Learning/blob/main/Classification/Decision%20Tree%20Classification.ipynb)
-- [Random Forest Classifier]()
+- [Random Forest Classifier](https://github.com/tharika01/Machine-Learning/blob/main/Classification/Random%20Forest%20Classifier.ipynb)
+
+Model was trained on all of the classification algorithms and obbserved that kernal SVM and KNN yielded highest accuracy of 93 %.
 
