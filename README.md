@@ -48,6 +48,6 @@ This will open the Jupyter Notebook software and project file in your browser.
 - [Support Vector Machine](https://github.com/tharika01/Machine-Learning/blob/main/Classification/svm.ipynb)
 - [Kernal Support Vector Machine](https://github.com/tharika01/Machine-Learning/blob/main/Classification/kernal_svm.ipynb)
 - [Naive Bayes](https://github.com/tharika01/Machine-Learning/blob/main/Classification/Naive_bayes.ipynb)
-- [Decision Tree Classifier]()
+- [Decision Tree Classifier](https://github.com/tharika01/Machine-Learning/blob/main/Classification/Decision%20Tree%20Classification.ipynb)
 - [Random Forest Classifier]()
 
