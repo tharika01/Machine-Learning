@@ -46,7 +46,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 - [Logistic Regression](https://github.com/tharika01/Machine-Learning/blob/main/Classification/logistic_regression.ipynb)
 - [K_Nearest Neighbors](https://github.com/tharika01/Machine-Learning/blob/main/Classification/knn.ipynb)
 - [Support Vector Machine](https://github.com/tharika01/Machine-Learning/blob/main/Classification/svm.ipynb)
-- [Kernal Support Vector Machine](https://github.com/tharika01/Machine-Learning/blob/main/Classification/kernal_svm.ipynb)
+- [Kernal Support Vector Machine](https://github.com/tharika01/Machine-Learning/blob/main/Classification/kernal_svm.ipynb) (with hyper parameter tuning)
 - [Naive Bayes](https://github.com/tharika01/Machine-Learning/blob/main/Classification/Naive_bayes.ipynb)
 - [Decision Tree Classifier](https://github.com/tharika01/Machine-Learning/blob/main/Classification/Decision%20Tree%20Classification.ipynb)
 - [Random Forest Classifier](https://github.com/tharika01/Machine-Learning/blob/main/Classification/Random%20Forest%20Classifier.ipynb)
