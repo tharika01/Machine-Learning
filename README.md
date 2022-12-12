@@ -54,3 +54,6 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 Model was trained on all the  above classification on the same dataset, observed that kernal SVM and KNN yielded maximum accuracy(R2 Score) of 93 %.
 
+# Unsupervised Learning
+### Clustering
+- [KMeans Clustering](https://github.com/tharika01/Machine-Learning/tree/main/Clustering)
