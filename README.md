@@ -57,3 +57,4 @@ Model was trained on all the  above classification on the same dataset, observed
 # Unsupervised Learning
 ### Clustering
 - [KMeans Clustering](https://github.com/tharika01/Machine-Learning/tree/main/Clustering)
+- [Hierarchial Clustering](https://github.com/tharika01/Machine-Learning/blob/main/Clustering/Hierarchial%20clustering.ipynb)
